@@ -32,15 +32,15 @@ INSTALAÇÃO:
 > termux-setup-storage
 > pkg install git && pkg install tesseract && pkg install wget && pkg install ffmpeg && pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/FelipeBRbk/Bot.git
-> cd Bot
+> git clone https://github.com/FelipeBRbk/Botluiza.git
+> cd Botluiza
 > npm i -g cwebp && npm i node-tesseract-ocr && npm i -g ytdl && npm i  && npm i got && node index js
 > Basta escanear o código qr e ... pronto
 ```
 
 ## CARACTERÍSTICAS  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
 
-| Felipe Bot     |                   Característica        |
+| Luiza Bot     |                   Característica        |
 | :-----------: | :------------------------------: |
 |       ✅       | Criador de adesivos                  |
 |       ✅       | Nulis                            |
@@ -74,10 +74,9 @@ INSTALAÇÃO:
 |       ✅       | Pokemon                          |
 |       ✅       | Info                             |
 |       ✅       | Doar                           |
-|       ✅       | 18+.                             |
 |       ✅       | MAIS recursos em breve 🍂        |
 
-Felipe DOMINA 🐦❤️
+LUIZA DOMINA 🐦❤️
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
 

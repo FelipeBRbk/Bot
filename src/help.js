@@ -2,7 +2,7 @@ const help = (prefix) => {
 	return `
 
 ╔════════════════════
-║        🌹FELIPE BOT🌹
+║        🌹 BOT DA LUIZA🌹
 ╠════════════════════
 
 
@@ -44,12 +44,6 @@ const help = (prefix) => {
 ➸ Comando : *${prefix}gtts*
 ➸ útil em : converter texto em fala/áudio
 ➸ uso : *${prefix}gtts [cc] [text]*\nexemplo : *${prefix}gtts ja On2-chan*\n
-➸ Comando : *${prefix}loli*
-➸ útil em : mandar imagens aleatórias de loli
-➸ uso : basta enviar o comando\n
-➸ Comando : *${prefix}nsfwloli*
-➸ útil em : mandar imagens aleatórias de nsfw loli
-➸ uso : basta enviar o comando\n
 ➸ Comando : *${prefix}url2img*
 ➸ útil em : tirar screenshots da web
 ➸ uso : *${prefix}url2img [tipe] [url]*\n
@@ -78,11 +72,6 @@ const help = (prefix) => {
 ➸ útil em : marcar todos os membros do grupo, incluindo administradores
 ➸ uso : basta enviar o comando\n
 ➸ Nota : Você precisa ser administrador do grupo\n
-➸ Comando : *${prefix}simih*
-➸ útil em : ativar o modo simi no grupo
-➸ uso : *${prefix}simih 1* para ativar o modo simi e *${prefix}simih 0* para 
-➸ desativar o modo simih
-➸ Nota : Você precisa ser administrador do grupo\n
 ➸ Comando : *${prefix}add*
 ➸ útil em : adicionar membro ao grupo
 ➸ uso : *${prefix}add 5585xxxxx*\n
@@ -99,18 +88,10 @@ const help = (prefix) => {
 ➸ útil em : tornar o administrador um membro comum
 ➸ uso : *${prefix}demote e o @da pessoa*\n
 ➸ Nota : Você precisa ser admin e o bot também
-
-       • ────── ✾ ────── •
-       *MENU DO FELIPE*【✔】
-       • ────── ✾ ────── •              
-
-➸ *${prefix}help1* ♔
     
 
 ╔════════════════════
-  FEITO POR *ZEUS*
-  DUVIDAS? 👇
-  WA.me/556993899391
+  FEITO POR *LUIZA*
 ╚════════════════════`
 }
 
